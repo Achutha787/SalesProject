@@ -3,6 +3,7 @@ This Sales Project is about extracting the maximum information from the given da
 
 
 Key Insights:
+
 Sales and Budget Amount diverged the most in November Month, when Sales were 818876 higher than Budget Amount.
 
 Across all 4 Quarters, Average of Sales ranged from 344.69 to 409.36 million.
