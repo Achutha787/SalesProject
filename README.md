@@ -1,6 +1,21 @@
 # SalesProject
 This Sales Project is about extracting the maximum information from the given data of sales,customer details and product details.
 
+Key measures created:
+
+1)Budget Amount
+
+2)Sales
+
+3)Budget-Sales
+
+4)Budget/Sales
+
+5)Total Orders
+
+6)Total Customers
+
+
 
 Key Insights:
 
